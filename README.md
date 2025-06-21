@@ -24,3 +24,4 @@ Users can **add**, **update**, **delete**, and **clear** shopping items with a c
 - **JavaScript (Vanilla)** – DOM manipulation and interactivity
 
 ---
+**Demo**: https://funny-froyo-2c7eb5.netlify.app/
