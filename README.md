@@ -25,3 +25,5 @@ Users can **add**, **update**, **delete**, and **clear** shopping items with a c
 
 ---
 
+**Demo**: https://funny-froyo-2c7eb5.netlify.app/
+
