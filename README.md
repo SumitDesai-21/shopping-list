@@ -6,7 +6,7 @@ Users can **add**, **update**, **delete**, and **clear** shopping items with a c
 ![Shopping List Screenshot](assets/screen.jpg)
 
 
-## ✨ Features
+## Features
 
 - Add new shopping items
 - Update existing items
@@ -17,7 +17,7 @@ Users can **add**, **update**, **delete**, and **clear** shopping items with a c
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **HTML5** – Semantic layout and structure  
 - **CSS3** – Responsive and modern styling  
