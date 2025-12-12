@@ -1,12 +1,11 @@
-# Shopping List App
+## Shopping List App
 
 A simple, responsive Shopping List web app built using **HTML**, **CSS**, and **Vanilla JavaScript**.  
 Users can **add**, **update**, **delete**, and **clear** shopping items with a clean and intuitive interface.
 
 ![Shopping List Screenshot](assets/screen.jpg)
 
-
-## Features
+### Features
 
 - Add new shopping items
 - Update existing items
@@ -15,15 +14,11 @@ Users can **add**, **update**, **delete**, and **clear** shopping items with a c
 - Filter items dynamically
 - Clean, mobile-responsive UI
 
----
-
-## Technologies Used
+### Technologies Used
 
 - **HTML5** – Semantic layout and structure  
 - **CSS3** – Responsive and modern styling  
 - **JavaScript (Vanilla)** – DOM manipulation and interactivity
 
----
 
-**Demo**: https://funny-froyo-2c7eb5.netlify.app/
 
