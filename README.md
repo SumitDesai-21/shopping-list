@@ -3,8 +3,6 @@
 A simple, responsive Shopping List web app built using **HTML**, **CSS**, and **Vanilla JavaScript**.  
 Users can **add**, **update**, **delete**, and **clear** shopping items with a clean and intuitive interface.
 
-![Shopping List Screenshot](assets/screen.jpg)
-
 ### Features
 
 - Add new shopping items
@@ -20,5 +18,6 @@ Users can **add**, **update**, **delete**, and **clear** shopping items with a c
 - **CSS3** – Responsive and modern styling  
 - **JavaScript (Vanilla)** – DOM manipulation and interactivity
 
+*The main purpose of this application was to learn JS fundamentals (Dom Manipulation, Async-Await, Callback-promises, etc)*
 
 
